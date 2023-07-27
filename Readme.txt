@@ -1,3 +1,5 @@
+For screenshots, see 'Features and screenshots.pdf' file
+
 Preparations needed to run the application successfully:
 •	Import the kc_energy.sql file to your MySQL database.
 •	If you want to test the Send Email function, please make sure your local host has an SMTP server running, or 	you can run the fakeSMTP-2.0.jar file and start the server.
